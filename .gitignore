@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+.idea/
+.DS_Store
+/build/
+.caches/
+captures/
+.android/
+.emulator_console_auth_token
+*.log
